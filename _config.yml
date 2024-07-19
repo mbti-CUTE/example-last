@@ -19,7 +19,7 @@ title: 옥천 hub # the main title
 tagline: 경희대학교 산업경영공학과 2022110101 윤예준 # it will display as the sub-title
 
 description: >-
-  우당탕탕 데이터분석 성장기 
+  우당탕탕 데이터분석 성장기
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: yejuny00n # change to your github username
 
 twitter:
-  username: 트위터 안써요 # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
